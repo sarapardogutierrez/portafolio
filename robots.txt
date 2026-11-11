@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sarapardo.github.io/portafolio/sitemap.xml
